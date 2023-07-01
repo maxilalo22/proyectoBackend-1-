@@ -1,0 +1,1 @@
+[{"id":1,"title":"Fernet","description":"Bebida alcoholica","code":"ABC234","price":2800,"status":true,"stock":10,"category":"Bebidas","thumbnails":["ruta/imagen1.jpg"]},{"id":2,"title":"Cerveza","description":"Bebida alcoholica","code":"ABC23","price":450,"status":true,"stock":10,"category":"Bebidas","thumbnails":["ruta/imagen2.jpg"]}]
